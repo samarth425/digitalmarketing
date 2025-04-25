@@ -1,2 +1,2 @@
 # digitalmarketing
-my didital marketing portfolio
+my digital marketing portfolio
